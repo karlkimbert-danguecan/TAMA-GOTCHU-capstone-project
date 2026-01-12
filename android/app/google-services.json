@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "16186092618",
+    "firebase_url": "https://tamagotchu-80dd2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tamagotchu-80dd2",
+    "storage_bucket": "tamagotchu-80dd2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16186092618:android:09ad6c8638891cca504ab3",
+        "android_client_info": {
+          "package_name": "com.example.tamagotchuuu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg081qI8HRXL0Z2K1BdQDySGVggFAlMeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
